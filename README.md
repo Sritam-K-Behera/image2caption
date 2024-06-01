@@ -28,7 +28,6 @@ To run this application locally, follow these steps:
 1. **Clone the repository**:
     ```sh
     git clone https://github.com/your-username/image-captioning-webapp.git
-    cd image-captioning-webapp
     ```
 
 2. **Set up a virtual environment**:
